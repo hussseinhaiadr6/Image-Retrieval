@@ -51,7 +51,7 @@ python Pipeline.py
 ```
 The system will output the most similar image along with its similarity score.
 
-##Results
+## Results
 The retrieved image is displayed with the similarity score in the console or notebook.
 For further analysis, intermediate results (e.g., embeddings) can be visualized using the notebook.
 
